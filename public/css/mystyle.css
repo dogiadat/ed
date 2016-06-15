@@ -1,0 +1,50 @@
+html, body {
+ font-family: 'Lato';
+ background-color: #d3d3d3;
+ height: 90%;
+}
+.fa-btn {
+ margin-right: 6px;
+}
+
+
+footer {
+  background-color: #555;
+  color: white;
+  padding: 19px;
+
+}
+
+.errors {
+  background-color: #F5F5F5;
+  color:red;
+  font-style: italic;
+}
+
+#wrap {
+  min-height: 100%;
+}
+
+.search {
+  display: inline-grid;
+}
+
+.modal-dialog {
+  width: 300px;
+}
+.modal-footer {
+  height: 70px;
+  margin: 0;
+}
+.modal-footer .btn {
+  font-weight: bold;
+}
+.modal-footer .progress {
+  display: none;
+  height: 32px;
+  margin: 0;
+}
+.input-group-addon {
+  color: #fff;
+  background: #3276B1;
+}
